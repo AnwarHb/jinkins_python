@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import unittest
 import app
-
+from collections.abc import Mapping
 class TestHello(unittest.TestCase):
 
     def setUp(self):
