@@ -1,7 +1,7 @@
 Click==7.0
-Flask==1.0.2
+Flask==2.1.1
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
-Werkzeug
+Werkzeug==2.0.3
 xmlrunner==1.7.7
