@@ -2,7 +2,7 @@
 
 import unittest
 import app
-from collections.abc import Mapping, MutableMapping
+
 
 class TestHello(unittest.TestCase):
 
