@@ -8,7 +8,7 @@ pipeline {
     }
     stage('test') {
       steps {
-        sh 'python3.7.9 test.py'
+        sh 'python3 test.py'
       }
       post {
         always {
